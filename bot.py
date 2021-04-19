@@ -7,6 +7,3 @@ f = open("word", 'r')
 for word in f:
     pyautogui.typewrite(word)
     pyautogui.press("enter")
-
-
-kazi bdsk
